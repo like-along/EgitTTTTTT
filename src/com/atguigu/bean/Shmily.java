@@ -6,6 +6,7 @@ public class Shmily {
 		// TODO Auto-generated method stub
 		System.out.println("zzzzzz这就是爱吗");
 		System.out.println("zdadasdada不是爱");
+		System.out.println("dadada");
 	}
 
 }
